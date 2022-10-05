@@ -1,0 +1,15 @@
+{
+  "header": {
+    "created_by": "subhadip",
+    "created_date": "20220826"
+  },
+  "body": {
+    "input_path": "dbfs:/FileStore/shared_uploads/subhadip.chanda@databricks.com/input_emp.csv",
+    "output_path": "dbfs:/FileStore/shared_uploads/subhadip.chanda@databricks.com/output",
+    "replace_null_value": {
+      "age": "YES",
+      "location": "YES",
+      "name": "NO"
+    }
+  }
+}

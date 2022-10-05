@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Implementation-Title: Scala 2.11 wrapper for Log4j API
+Implementation-Version: 11.0
+Archiver-Version: Plexus Archiver
+Built-By: matt
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: Scala 2.11 wrapper for Log4j API
+Implementation-Vendor-Id: org.apache.logging.log4j
+Implementation-Vendor: The Apache Software Foundation
+Created-By: Apache Maven 3.5.0
+Build-Jdk: 1.8.0_111
+Specification-Version: 11.0
+Implementation-URL: http://logging.apache.org/log4j/2.x/log4j-api-scal
+ a_2.11/
+
